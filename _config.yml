@@ -1,5 +1,5 @@
-title: EZambrano Cyber portfolio
-description: To provide a preview of cybersecurity work completed.
+title: EZambrano Cyber Projects
+#logo: /assets/img/headshot_circle.png
+#description: text below image
 show_downloads: true
-#google_analytics: [Your Google Analytics tracking ID]
 theme: jekyll-theme-minimal
